@@ -26,6 +26,7 @@ button{
 	width: 80%;
 	margin: auto;
 	gap: 5px;
+	padding: 10px;
 }
 .google_image{
 	justify-self: center;
